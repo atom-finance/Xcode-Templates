@@ -3,10 +3,10 @@
 import UIKit
 
 protocol ___FILEBASENAME___Delegate: AnyObject {
-//  <#...#>
+  <#code#>
 }
 
-/// <#...#>
+/// <#docs#>
 final class ___FILEBASENAME___: UIViewController {
   private weak var delegate: ___FILEBASENAME___Delegate?
 
@@ -21,6 +21,6 @@ final class ___FILEBASENAME___: UIViewController {
   }
 
   override func loadView() {
-    view = <#...#>
+    view = <#code#>
   }
 }
